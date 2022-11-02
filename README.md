@@ -2,7 +2,7 @@
 
 내용 참고 👉🏻 https://www.notion.so/c475ae61d1674b65bde2f4b27e241b9f
 
-## 할 일
+## 
 
 1) 특징 잡기 (categories)
 
